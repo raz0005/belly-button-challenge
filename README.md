@@ -54,14 +54,4 @@ Check out the live demo of the Belly Button Challenge at [this link](https://raz
 
 The dataset used for this project is sourced from [Belly Button Biodiversity](https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json).
 
-## Contributing
 
-If you have suggestions or improvements for this project, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This summary provides a clear overview of the project's purpose, features, technologies used, installation instructions, and how to access the live application. It also includes sections on contributing and licensing to guide potential collaborators and users.
