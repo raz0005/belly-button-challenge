@@ -43,7 +43,12 @@ To run this project locally:
 
 ## Deployment
 
-The project is deployed on GitHub Pages. You can access the live dashboard at [GitHub Pages URL]([https://raz0005.github.io/belly-button-challenge/])].
+The project is deployed on GitHub Pages. 
+
+## Live Demo
+
+Check out the live demo of the Belly Button Challenge at [this link](https://raz0005.github.io/belly-button-challenge/).
+
 
 ## Data Source
 
