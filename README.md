@@ -1,6 +1,3 @@
-Certainly! Here is a sample project summary for the `README.md` file of your Belly Button Biodiversity dashboard project:
-
----
 
 # Belly Button Biodiversity Dashboard
 
